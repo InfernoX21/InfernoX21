@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1200&pause=350&color=FFFFFF&background=0D0D0D&center=true&vCenter=true&width=800&lines=Building+AI-driven+GeoIntelligence+systems;Engineering+post-quantum-secure+infrastructure;Researching+intrusion+detection+%26+network+security;Designing+intelligent+IoT+systems;Turning+complex+systems+into+usable+interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=FFFFFF&background=0D0D0D&center=true&vCenter=true&width=850&separator=%7C&lines=Building+AI-driven+GeoIntelligence+systems;Engineering+post-quantum-secure+infrastructure;Researching+intrusion+detection+%26+network+security;Designing+intelligent+IoT+systems;Turning+complex+systems+into+usable+interfaces" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -123,7 +123,9 @@ Founder of **Ctrl-Z Clothing**. Smart India Hackathon 2025 winner. Technical int
 
 ## CURRENTLY BUILDING
 
-`AI × GEOINT × CYBERSECURITY × IoT`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=FFFFFF&background=0D0D0D&center=true&vCenter=true&width=700&lines=AI+%C3%97+GEOINT+%C3%97+CYBERSECURITY+%C3%97+IoT;COMMAND-CENTER+SYSTEMS;TERRAIN+INTELLIGENCE;POST-QUANTUM-SECURE+IoT;AI-ASSISTED+SECURITY+INFRA" alt="Currently building" />
+</p>
 
 Exploring intelligent command-center systems, terrain intelligence, post-quantum-secure IoT communication, and AI-assisted security infrastructure.
 
@@ -235,9 +237,11 @@ Then add:
 ---
 
 <p align="center">
-  <sub>© 2026 AYUSH RANJAN PRADHAN</sub>
+  <code>01</code> — <code>10</code> — <code>11</code> — <code>00</code>
 </p>
 
 <p align="center">
-  <code>01</code> — <code>10</code> — <code>11</code> — <code>00</code>
+  <sub>© 2026 AYUSH RANJAN PRADHAN</sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
