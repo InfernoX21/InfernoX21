@@ -1,4 +1,3 @@
-
 # AYUSH RANJAN PRADHAN
 
 <p align="center">
@@ -6,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1200&pause=350&color=FFFFFF&background=0D0D0D&center=true&vCenter=true&width=800&lines=Building+AI-driven+GeoIntelligence+systems;Cybersecurity+researcher;Engineering+post-quantum+security;Designing+intelligent+IoT+systems;Turning+complex+systems+into+usable+interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1200&pause=350&color=FFFFFF&background=0D0D0D&center=true&vCenter=true&width=800&lines=Building+AI-driven+GeoIntelligence+systems;Engineering+post-quantum-secure+infrastructure;Researching+intrusion+detection+%26+network+security;Designing+intelligent+IoT+systems;Turning+complex+systems+into+usable+interfaces" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@
 
 ## ABOUT
 
-B.Tech CSIT student at **ITER, Siksha 'O' Anusandhan University**, building at the intersection of  
+B.Tech CSIT student at **ITER, Siksha 'O' Anusandhan University**, building at the intersection of
 **AI/ML, cybersecurity, GeoIntelligence, and IoT systems**.
 
 Research interests include **quantum computing and post-quantum cryptography**, with a bias toward systems that can move from prototype to deployment.
@@ -87,29 +86,29 @@ Founder of **Ctrl-Z Clothing**. Smart India Hackathon 2025 winner. Technical int
 
 | SYSTEM | WHAT IT DOES | STACK |
 |---|---|---|
-| **ARKA** | Government-grade GeoIntelligence operating platform combining city digital twins, IoT telemetry, surveillance feeds and AI reasoning into a command-center interface. | `CesiumJS` `AI` `IoT` `GEOINT` |
+| **ARKA** — *Advanced Real-Time Kinetic Analysis* | Government-grade GeoIntelligence operating platform combining a city digital twin, IoT telemetry, surveillance feeds, and AI reasoning into a command-center interface. | `CesiumJS` `AI` `IoT` `GEOINT` |
 | **Study Hub** | Premium EdTech platform engineered around a polished, dark-first learning experience and high-quality product UX. | `Next.js` `React` `TypeScript` |
-| **Terrain Intelligence Platform** | Full-stack GEOINT workstation for terrain visualization, line-of-sight and viewshed analysis. | `Next.js` `FastAPI` `PostGIS` |
+| **Terrain Intelligence Platform** | Full-stack GEOINT workstation for terrain visualization, line-of-sight, and viewshed analysis. | `Next.js` `FastAPI` `PostGIS` |
 | **DTFA** | Privacy-education and digital-footprint analysis system using exposure scoring and an interactive force-directed graph. | `D3.js` `Python` `Web` |
 | **ANBU** | Intent-based intrusion detection system focused on anomalous network behavior and intelligent threat detection. | `Python` `ML` `Cybersecurity` |
-| **IRA** | Geospatial climate and environmental intelligence platform layering satellite, environmental and IoT data for resilient planning. | `CesiumJS` `GIS` `AI` `IoT` |
+| **IRA** | Geospatial climate and environmental intelligence platform layering satellite, environmental, and IoT data for resilient planning. | `CesiumJS` `GIS` `AI` `IoT` |
 
 ### REPOSITORIES / DEMOS
 
-> Repository and deployment URLs are intentionally marked until the exact links are available.
+<sub>Links go live as each repo is made public — swap the placeholders below when ready.</sub>
 
-- **ARKA** — [add repository link] · [add live demo]
-- **Study Hub** — [add repository link] · [add live demo]
-- **Terrain Intelligence Platform** — [add repository link] · [add live demo]
-- **DTFA** — [add repository link] · [add live demo]
-- **ANBU** — [add repository link] · [add live demo]
-- **IRA** — [add repository link] · [add live demo]
+- **ARKA** — `repo →` · `demo →`
+- **Study Hub** — `repo →` · `demo →`
+- **Terrain Intelligence Platform** — `repo →` · `demo →`
+- **DTFA** — `repo →` · `demo →`
+- **ANBU** — `repo →` · `demo →`
+- **IRA** — `repo →` · `demo →`
 
 ---
 
 ## GITHUB / ACTIVITY
 
-> Replace `[GITHUB_USERNAME]` with the exact GitHub username.
+> Replace `[GITHUB_USERNAME]` below with your exact GitHub username.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=ffffff&text_color=999999&icon_color=ffffff&border_color=333333&rank_icon=github" height="180"/>
@@ -143,7 +142,7 @@ Different disciplines. Same principle:
 ## LEADERSHIP / EXPERIENCE
 
 ```text
-ATAl INCUBATION CENTER
+ATAL INCUBATION CENTER
 Technical Intern
 
 GFG CAMPUS BODY — ITER
@@ -160,7 +159,7 @@ Cadet / Leadership & Field Training
 
 DoT — SANCHAR SAATHI
 Cybersecurity / Awareness Initiatives
-````
+```
 
 ---
 
@@ -190,7 +189,7 @@ Cybersecurity / Awareness Initiatives
 
 ## CONTRIBUTION SNAKE
 
-A monochrome contribution animation can be added with `snk` once the GitHub username is confirmed.
+Uses `github.repository_owner` so you don't have to hardcode your username in the workflow itself — you only need it in the two image URLs above and the raw-content URL below.
 
 ```yaml
 # .github/workflows/snake.yml
@@ -202,29 +201,34 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - uses: Platane/snk@v3
+        id: snake-gif
         with:
-          github_user_name: [GITHUB_USERNAME]
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=ffffff&color_dots=#161616,#333333,#666666,#999999,#ffffff
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ffffff&color_dots=#161616,#333333,#666666,#999999,#ffffff
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 Then add:
 
 ```markdown
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[GITHUB_USERNAME]/[GITHUB_USERNAME]/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/[GITHUB_USERNAME]/[GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 ```
 
@@ -237,31 +241,3 @@ Then add:
 <p align="center">
   <code>01</code> — <code>10</code> — <code>11</code> — <code>00</code>
 </p>
-```
-
-### Details pulled from memory
-
-* **Name:** Ayush Ranjan Pradhan
-* **Degree:** B.Tech CSIT
-* **Institution:** ITER, Siksha ‘O’ Anusandhan University
-* **Focus:** Cybersecurity, AI/ML, IoT, GeoIntelligence
-* **Research:** Quantum computing / post-quantum cryptography
-* **Founder:** Ctrl-Z Clothing
-* **Achievement:** Smart India Hackathon 2025 hardware division winner
-* **Experience:** Technical internship at Atal Incubation Center
-* **Leadership:** GFG Campus Body ITER, ACM Student Chapter, E-Cell SOA, NCC, DoT/Sanchar Saathi
-* **Projects:** ARKA, Study Hub, Terrain Intelligence Platform, DTFA, ANBU, IRA
-* **Personal achievement:** National-level painting and karate
-
-### Could not find in memory
-
-* **Exact GitHub username**
-* **GitHub profile URL**
-* **Exact repository URLs for the six featured projects**
-* **Live demo/deployment URLs**
-* **Portfolio website URL**
-* **LinkedIn profile URL/handle**
-* **X/Twitter profile URL/handle**
-* **Public professional email address**
-
-I deliberately left those as `[add ...]` / `[GITHUB_USERNAME]` rather than guessing.
