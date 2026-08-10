@@ -1,381 +1,256 @@
-
 <div align="center">
-
-# AYUSH RANJAN PRADHAN
-
-### ENGINEER · BUILDER · FOUNDER · SYSTEMS THINKER
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+systems+that+solve+real+problems.;AI+%C2%B7+Geospatial+Intelligence+%C2%B7+Cybersecurity;From+ideas+to+systems+to+impact." />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=555555&label=PROFILE+VIEWS"/>
-
-<br><br>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0B1F33,100:00E5FF&height=240&section=header&text=AYUSH%20RANJAN%20PRADHAN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%C2%B7%20GEOINT%20%C2%B7%20CYBERSECURITY%20%C2%B7%20SYSTEMS&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+AI-driven+GeoIntelligence+systems;Cybersecurity+researcher;Engineering+secure+intelligent+systems;Exploring+Post-Quantum+Cryptography;Turning+complex+problems+into+working+systems" />
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
 </a>
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
 
-## `01 — ABOUT`
+## `ABOUT / 01`
 
-I'm **Ayush**, a Computer Science & Information Technology engineer and founder-minded builder interested in the intersection of technology, intelligence and real-world systems.
+I'm a **B.Tech CSIT student at ITER, Siksha 'O' Anusandhan University**, building at the intersection of **AI, cybersecurity, geospatial intelligence and IoT systems**.
 
-My work revolves around:
+My work spans production-oriented prototypes, research and systems engineering — from **city-scale digital twins** to **intrusion detection** and **post-quantum security**.
 
-```text
-Artificial Intelligence
-        ×
-Geospatial Intelligence
-        ×
-Cybersecurity
-        ×
-Automation
-        ×
-Emerging Technology
-````
+Founder of **Ctrl-Z Clothing**, Smart India Hackathon 2025 Winner, and technical intern at **Atal Incubation Center**.
 
-I like taking complex, messy or highly manual problems and turning them into **intelligent systems, products and experiences.**
-
-> **Think in systems. Build in code. Ship in reality.**
+I prefer building systems that are difficult to fake in a demo — systems that actually have to work.
 
 ---
 
-## `02 — WHAT I'M BUILDING`
+## `STACK / 02`
 
-### ◈ IRA — Intelligent Resource Architecture
+### LANGUAGES
 
-**Geo-AI decision intelligence for climate-resilient cities.**
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql,bash&theme=dark" />
+</p>
 
-A geospatial intelligence platform designed to help planners and organizations understand environmental conditions and make better infrastructure decisions.
+### AI / ML / DATA
 
-**Core Technologies**
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+</p>
 
-`CesiumJS` `GIS` `Satellite Data` `Gemini` `OpenWeather` `Geospatial AI`
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `LLMs` · `AI Agents` · `Data Analysis`
 
-**Exploring**
+### SECURITY / RESEARCH
 
-* Urban sustainability intelligence
-* Flood-risk analysis
-* Heat & land-surface analysis
-* Green-corridor planning
-* Water-harvesting intelligence
-* Environmental decision support
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" />
+</p>
 
----
+`Cybersecurity` · `Network Security` · `IDS` · `Digital Forensics` · `GEOINT` · `Post-Quantum Cryptography` · `5G Security`
 
-### ◈ BHUMICARE
+### FRONTEND / GEOSPATIAL
 
-**Smart soil intelligence for better agricultural decisions.**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
+</p>
 
-An IoT-based soil-health monitoring system designed to turn field data into actionable agricultural insights.
+`Next.js` · `React` · `CesiumJS` · `QGIS` · `D3.js` · `GIS` · `3D Visualization`
 
-🏆 **Smart India Hackathon 2025 — Hardware Division Winner**
+### INFRA / BACKEND
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,mongodb,postgres,firebase,docker,git,github&theme=dark" />
+</p>
 
-### ◈ POST-QUANTUM IoT SECURITY
-
-**Securing the next generation of connected devices.**
-
-Researching secure IoT communication over 5G using post-quantum cryptography.
-
-```text
-┌──────────────┐
-│  IoT Device  │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ Edge Gateway │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ Kyber / PQC  │
-│ Key Exchange │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│Secure Channel│
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│Cloud / AI    │
-└──────────────┘
-```
-
-`CRYSTALS-Kyber` `CRYSTALS-Dilithium` `ESP32` `5G` `PQC`
+`FastAPI` · `Flask` · `Node.js` · `PostgreSQL` · `PostGIS` · `MongoDB` · `Firebase` · `Docker`
 
 ---
 
-## `03 — TECHNOLOGY`
+## `SELECTED SYSTEMS / 03`
+
+| PROJECT | WHAT IT DOES | STACK |
+|:---|:---|:---|
+| **ARKA** | **Government-grade GeoIntelligence Operating Platform** — a live city digital twin combining geospatial layers, IoT telemetry, surveillance feeds and AI reasoning inside a command-center interface. | `Next.js` `CesiumJS` `AI` `IoT` `GEOINT` |
+| **Study Hub** | **Premium EdTech platform** engineered around a polished dark interface and modern learning experience. | `Next.js` `React` `TypeScript` `UI/UX` |
+| **TIP** | **Terrain Intelligence Platform** — a full-stack GEOINT workstation with terrain visualization, line-of-sight and viewshed analysis. | `Next.js` `FastAPI` `PostGIS` `CesiumJS` |
+| **DTFA** | **Digital Traceability & Footprint Analyzer** — maps digital exposure using force-directed graphs and an exposure-scoring engine. | `D3.js` `JavaScript` `Graph Analytics` `Privacy` |
+| **ANBU** | **Intent-Based Intrusion Detection System** — detects anomalous network behaviour by modelling traffic intent rather than relying only on static signatures. | `Python` `ML` `Network Security` `IDS` |
+| **IRA** | **Geospatial Climate & Environmental Intelligence Platform** — layers satellite, weather and IoT data to support climate-resilient planning. | `CesiumJS` `GIS` `AI` `IoT` |
+
+### PROJECT ACCESS
+
+<p>
+<a href="[ARKA_LINK]">
+<img src="https://img.shields.io/badge/ARKA-EXPLORE-07111F?style=for-the-badge&logoColor=00E5FF" />
+</a>
+<a href="[STUDY_HUB_LINK]">
+<img src="https://img.shields.io/badge/STUDY_HUB-EXPLORE-07111F?style=for-the-badge&logoColor=00E5FF" />
+</a>
+<a href="[TIP_LINK]">
+<img src="https://img.shields.io/badge/TIP-EXPLORE-07111F?style=for-the-badge&logoColor=00E5FF" />
+</a>
+<a href="[DTFA_LINK]">
+<img src="https://img.shields.io/badge/DTFA-EXPLORE-07111F?style=for-the-badge&logoColor=00E5FF" />
+</a>
+<a href="[ANBU_LINK]">
+<img src="https://img.shields.io/badge/ANBU-EXPLORE-07111F?style=for-the-badge&logoColor=00E5FF" />
+</a>
+<a href="[IRA_LINK]">
+<img src="https://img.shields.io/badge/IRA-EXPLORE-07111F?style=for-the-badge&logoColor=00E5FF" />
+</a>
+</p>
+
+---
+
+## `SIGNAL / 04`
 
 <div align="center">
 
-### AI / INTELLIGENCE
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=07111F&title_color=00E5FF&text_color=9FB3C8&icon_color=00E5FF&ring_color=00E5FF&include_all_commits=true&count_private=true" height="175" />
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=07111F&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=9FB3C8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5D7185" height="175" />
 
-<br><br>
+<br/><br/>
 
-### DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,flask" />
-
-<br><br>
-
-### DATA / INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,docker,linux" />
-
-<br><br>
-
-### SPECIALIZED
-
-`CesiumJS` · `QGIS` · `GIS` · `5G` · `IoT` · `Cybersecurity` · `Post-Quantum Cryptography`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=07111F&color=9FB3C8&line=00E5FF&point=FFFFFF&area=true&area_color=0B2A3D&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
 
 ---
 
-## `04 — CURRENTLY EXPLORING`
+## `CURRENTLY BUILDING / 05`
 
-```text
-AI AGENTS                  ████████████████░░  90%
-GEOSPATIAL AI              ██████████████░░░░  80%
-CYBERSECURITY              █████████████░░░░░  75%
-SYSTEM DESIGN              ████████████░░░░░░  70%
-XR / VR                    ███████████░░░░░░░  65%
-POST-QUANTUM SECURITY      █████████░░░░░░░░░  55%
-```
+**ARKA** — pushing toward a real-time GeoIntelligence operating layer where **geospatial data + IoT telemetry + surveillance + AI reasoning** converge into one operational view.
 
-Currently going deeper into:
+At the same time:
 
-* Intelligent agents
-* AI-powered automation
-* Geospatial intelligence
-* Cybersecurity
-* 5G systems
-* Extended reality
-* Post-quantum cryptography
-* Product engineering
-* Startup building
+`AI Agents` · `GEOINT` · `Cybersecurity` · `Post-Quantum Cryptography` · `5G` · `IoT`
 
 ---
 
-## `05 — SELECTED WORK`
+## `BEYOND CODE / 06`
 
-<table>
-<tr>
-<td width="50%">
+Engineering is only one side of the picture.
 
-### 🌍 IRA
+I've also competed at the **national level in painting and karate**, alongside work across **GFG, ACM, E-Cell, NCC and DoT Sanchar Saathi**.
 
-**Geo-AI Decision System**
+Different disciplines, same principle:
 
-Climate intelligence + geospatial analytics for smarter urban planning.
-
-`AI` `GIS` `CesiumJS`
-
-</td>
-
-<td width="50%">
-
-### 🌱 BhumiCare
-
-**Soil Intelligence**
-
-IoT-driven soil-health monitoring and decision support.
-
-`IoT` `AI` `Hardware`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 PQ-IoT
-
-**Post-Quantum IoT Security**
-
-PQC-based secure communication architecture for 5G IoT.
-
-`PQC` `5G` `Cybersecurity`
-
-</td>
-
-<td width="50%">
-
-### 🧠 ASIMOV
-
-**AI Assistant Concepts**
-
-Experimenting with intelligent assistants, agentic workflows and multimodal AI.
-
-`AI` `Agents` `Automation`
-
-</td>
-</tr>
-</table>
+> **Observe. Adapt. Execute.**
 
 ---
 
-## `06 — EXPERIENCE`
-
-### Technical Consultant — Atal Incubation Center
-
-Working around startup ecosystem development, technology and business onboarding.
-
-### Media & PR Lead — GFG Campus Body
-
-Building technology communities, events and digital campaigns.
-
-### Technical & Marketing Team — E-Cell
-
-Working at the intersection of technology, entrepreneurship and communication.
-
-### ACM Student Chapter
-
-Exploring computing, research and technical communities.
-
----
-
-## `07 — BUILDER MODE`
-
-I don't just like writing code.
-
-I like understanding the complete journey:
-
-```text
-        PROBLEM
-           │
-           ▼
-        RESEARCH
-           │
-           ▼
-         SYSTEM
-           │
-           ▼
-       PROTOTYPE
-           │
-           ▼
-        PRODUCT
-           │
-           ▼
-         IMPACT
-```
-
-My favorite projects sit somewhere between **technology, business and real-world infrastructure.**
-
----
-
-## `08 — ACHIEVEMENTS`
+## `ACHIEVEMENTS / 07`
 
 <div align="center">
 
-🏆 **SMART INDIA HACKATHON 2025 WINNER**
+<img src="https://img.shields.io/badge/SMART%20INDIA%20HACKATHON-2025%20WINNER-07111F?style=for-the-badge&logoColor=00E5FF" />
 
-Hardware Division
+<img src="https://img.shields.io/badge/ATAl%20INCUBATION%20CENTER-TECHNICAL%20INTERN-07111F?style=for-the-badge&logoColor=00E5FF" />
 
-<br><br>
-
-🏆 **5–6× HACKATHON WINNER**
-
-<br>
-
-🏆 **5× IDEATHON WINNER**
-
-<br>
-
-🏆 **2× QUIZ WINNER**
+<img src="https://img.shields.io/badge/CTRL--Z%20CLOTHING-FOUNDER-07111F?style=for-the-badge&logoColor=00E5FF" />
 
 </div>
 
 ---
 
-## `09 — GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=00000000" height="170">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="170">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%">
-
-</div>
-
----
-
-## `10 — PHILOSOPHY`
-
-<div align="center">
-
-### **"Don't build another demo. Build something people need."**
-
-<br>
-
-`Curiosity → Experimentation → Engineering → Execution`
-
-</div>
-
----
-
-## `11 — BEYOND CODE`
-
-When I'm not building systems, you'll probably find me:
-
-🎸 Playing guitar
-🎨 Designing & sketching
-🌍 Planning the next trip
-🛰️ Exploring maps & geospatial systems
-🧠 Thinking about businesses that probably shouldn't exist — yet
-
----
-
-## `12 — LET'S BUILD`
-
-I'm interested in conversations around:
-
-`AI` · `Startups` · `Cybersecurity` · `Geospatial Intelligence` · `IoT` · `5G` · `AI Agents` · `Emerging Technology`
-
-If you're building something ambitious, researching something unusual, or trying to solve a problem that doesn't have a clean solution yet—
-
-**let's talk.**
-
-<br>
+## `CONNECT / 08`
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=07111F" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=07111F" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=07111F" />
 </a>
 
-<br><br>
+<a href="[PORTFOLIO_URL]">
+<img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=07111F" />
+</a>
 
-`BUILD → BREAK → LEARN → REBUILD`
+<br/><br/>
 
-<br><br>
-
-<sub>Designed with intent. Engineered with curiosity.</sub>
+`BUILD → TEST → BREAK → LEARN → SHIP`
 
 </div>
-```
 
-**Only replace these 3 things:** `YOUR_USERNAME`, `YOUR_LINKEDIN`, and `YOUR_EMAIL`.
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B1F33,100:07111F&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<sub>ENGINEERED WITH CURIOSITY · BUILT FOR IMPACT</sub>
+
+</div>
+
+<!--
+════════════════════════════════════════════════════════════════════
+OPTIONAL: SNAKE CONTRIBUTION ANIMATION
+════════════════════════════════════════════════════════════════════
+
+1. Create this file in your profile repository:
+
+.github/workflows/snake.yml
+
+2. Add the following GitHub Action:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YOUR_USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+
+3. After the Action runs, add this section anywhere above
+   "CONNECT / 08":
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+════════════════════════════════════════════════════════════════════
+-->
