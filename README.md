@@ -1,247 +1,164 @@
-# AYUSH RANJAN PRADHAN
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=220&section=header&text=AYUSH%20RANJAN%20PRADHAN&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=twinkling&desc=AI%20%7C%20CYBERSECURITY%20%7C%20GEOINT%20%7C%20POST-QUANTUM&descAlignY=58&descSize=14&descColor=999999" width="100%"/>
-</p>
+<!-- HEADER BANNER: MONOCHROME CAPSULE-RENDER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=220&section=header&text=AYUSH%20PRADHAN&fontSize=48&fontAlign=50&fontAlignY=38&animation=twinkle&fontColor=ffffff&stroke=333333&strokeWidth=1" width="100%" alt="Header Banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=FFFFFF&background=0D0D0D&center=true&vCenter=true&width=850&separator=%7C&lines=Building+AI-driven+GeoIntelligence+systems;Engineering+post-quantum-secure+infrastructure;Researching+intrusion+detection+%26+network+security;Designing+intelligent+IoT+systems;Turning+complex+systems+into+usable+interfaces" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <code>CTRL + Z</code>&nbsp;&nbsp; / &nbsp;&nbsp;<code>BUILD → BREAK → REBUILD</code>
-</p>
-
----
-
-## ABOUT
-
-B.Tech CSIT student at **ITER, Siksha 'O' Anusandhan University**, building at the intersection of
-**AI/ML, cybersecurity, GeoIntelligence, and IoT systems**.
-
-Research interests include **quantum computing and post-quantum cryptography**, with a bias toward systems that can move from prototype to deployment.
-
-Founder of **Ctrl-Z Clothing**. Smart India Hackathon 2025 winner. Technical intern at **Atal Incubation Center**.
-
----
-
-## STACK
-
-### LANGUAGES
-
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
-</p>
-
-### AI / ML
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-000000?style=for-the-badge&logo=google&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=ffffff" />
-</p>
-
-### SECURITY / GEOINT
-
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Post--Quantum%20Cryptography-000000?style=for-the-badge&logo=gnuprivacyguard&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/QGIS-000000?style=for-the-badge&logo=qgis&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/GIS%20%2F%20GEOINT-000000?style=for-the-badge&logo=googleearth&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=arduino&logoColor=ffffff" />
-</p>
-
-### FRONTEND / BACKEND
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/D3.js-000000?style=for-the-badge&logo=d3.js&logoColor=ffffff" />
-</p>
-
-### INFRA / DATA
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/PostGIS-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
-</p>
-
----
-
-## FEATURED SYSTEMS
-
-| SYSTEM | WHAT IT DOES | STACK |
-|---|---|---|
-| **ARKA** — *Advanced Real-Time Kinetic Analysis* | Government-grade GeoIntelligence operating platform combining a city digital twin, IoT telemetry, surveillance feeds, and AI reasoning into a command-center interface. | `CesiumJS` `AI` `IoT` `GEOINT` |
-| **Study Hub** | Premium EdTech platform engineered around a polished, dark-first learning experience and high-quality product UX. | `Next.js` `React` `TypeScript` |
-| **Terrain Intelligence Platform** | Full-stack GEOINT workstation for terrain visualization, line-of-sight, and viewshed analysis. | `Next.js` `FastAPI` `PostGIS` |
-| **DTFA** | Privacy-education and digital-footprint analysis system using exposure scoring and an interactive force-directed graph. | `D3.js` `Python` `Web` |
-| **ANBU** | Intent-based intrusion detection system focused on anomalous network behavior and intelligent threat detection. | `Python` `ML` `Cybersecurity` |
-| **IRA** | Geospatial climate and environmental intelligence platform layering satellite, environmental, and IoT data for resilient planning. | `CesiumJS` `GIS` `AI` `IoT` |
-
-### REPOSITORIES / DEMOS
-
-<sub>Links go live as each repo is made public — swap the placeholders below when ready.</sub>
-
-- **ARKA** — `repo →` · `demo →`
-- **Study Hub** — `repo →` · `demo →`
-- **Terrain Intelligence Platform** — `repo →` · `demo →`
-- **DTFA** — `repo →` · `demo →`
-- **ANBU** — `repo →` · `demo →`
-- **IRA** — `repo →` · `demo →`
-
----
-
-## GITHUB / ACTIVITY
-
-> Replace `[GITHUB_USERNAME]` below with your exact GitHub username.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=ffffff&text_color=999999&icon_color=ffffff&border_color=333333&rank_icon=github" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=[GITHUB_USERNAME]&background=0d0d0d&border=333333&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=999999&sideLabels=999999&dates=666666" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[GITHUB_USERNAME]&bg_color=0d0d0d&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=false&custom_title=Contribution%20Activity" width="95%"/>
-</p>
-
----
-
-## CURRENTLY BUILDING
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=FFFFFF&background=0D0D0D&center=true&vCenter=true&width=700&lines=AI+%C3%97+GEOINT+%C3%97+CYBERSECURITY+%C3%97+IoT;COMMAND-CENTER+SYSTEMS;TERRAIN+INTELLIGENCE;POST-QUANTUM-SECURE+IoT;AI-ASSISTED+SECURITY+INFRA" alt="Currently building" />
-</p>
-
-Exploring intelligent command-center systems, terrain intelligence, post-quantum-secure IoT communication, and AI-assisted security infrastructure.
-
----
-
-## BEYOND CODE
-
-National-level achievements in **painting** and **karate**.
-
-Different disciplines. Same principle:
-
-> **Observe. Adapt. Execute.**
-
----
-
-## LEADERSHIP / EXPERIENCE
-
-```text
-ATAL INCUBATION CENTER
-Technical Intern
-
-GFG CAMPUS BODY — ITER
-Leadership / Media & PR
-
-ACM STUDENT CHAPTER
-Technical & Community Activities
-
-E-CELL — SOA
-Technical & Marketing Team
-
-NCC
-Cadet / Leadership & Field Training
-
-DoT — SANCHAR SAATHI
-Cybersecurity / Awareness Initiatives
-```
-
----
-
-## CONNECT
-
-<p align="center">
-
-<a href="[LINKEDIN_URL]">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+<!-- ANIMATED MONOCHROME TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=Building%20AI-driven%20GeoIntelligence%20Operating%20Platforms;Cybersecurity%20Researcher%20%26%20Post-Quantum%20Cryptography;Founder%20%40%20Ctrl-Z%20Clothing%20%7C%20SIH%20'25%20Winner;IoT%20Systems%20Telemetry%20%26%20Anomaly-Based%20IDS" alt="Typing SVG Tagline" />
 </a>
 
-<a href="[X_URL]">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff" />
-</a>
-
-<a href="mailto:[EMAIL_ADDRESS]">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" />
-</a>
-
-<a href="[PORTFOLIO_URL]">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff" />
-</a>
-
+<p align="center">
+  <code><b>GEOINTELLIGENCE & CYBERSECURITY SYSTEMS ENGINEER</b></code> &nbsp;|&nbsp; 
+  <code><b>BHUBANESWAR, INDIA</b></code> &nbsp;|&nbsp; 
+  <code><b>FOUNDER @ CTRL-Z CLOTHING</b></code>
 </p>
 
 ---
 
-## CONTRIBUTION SNAKE
+</div>
 
-Uses `github.repository_owner` so you don't have to hardcode your username in the workflow itself — you only need it in the two image URLs above and the raw-content URL below.
+### 01 // SYSTEM OVERVIEW
 
-```yaml
-# .github/workflows/snake.yml
+B.Tech CSIT researcher at ITER (Siksha 'O' Anusandhan) engineering high-throughput GeoIntelligence systems, zero-trust IoT pipelines, and post-quantum cryptographic primitives. Founder of **Ctrl-Z Clothing**, Smart India Hackathon 2025 Winner, and former technical intern at Atal Incubation Center. Beyond code: national-level painter and karateka.
 
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ffffff&color_dots=#161616,#333333,#666666,#999999,#ffffff
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then add:
-
-```markdown
-<p align="center">
-  <img src="https://raw.githubusercontent.com/[GITHUB_USERNAME]/[GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-```
+- **Core Domains:** Cybersecurity, GeoIntelligence Operating Platforms (GEOINT), Post-Quantum Cryptography (PQC), Anomaly Detection, IoT Systems
+- **Affiliations & Roles:** Founder @ Ctrl-Z Clothing | SIH '25 Winner | Technical Intern @ Atal Incubation Center
+- **Leadership:** GFG Campus Body, ACM, E-Cell, NCC, DoT Sanchar Saathi
+- **Interests:** Painting & Karate (National-level)
 
 ---
 
-<p align="center">
-  <code>01</code> — <code>10</code> — <code>11</code> — <code>00</code>
-</p>
+### 02 // TECHNICAL MATRIX
+
+#### LANGUAGES & RUNTIMES
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white&labelColor=000000)
+![Bash](https://img.shields.io/badge/GNU_Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=000000)
+
+#### AI / ML & GEOINT ENGINE
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000)
+![PostGIS](https://img.shields.io/badge/PostGIS-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![GDAL](https://img.shields.io/badge/GDAL-000000?style=for-the-badge&logo=geodata&logoColor=white&labelColor=000000)
+![Deck.gl](https://img.shields.io/badge/Deck.gl-000000?style=for-the-badge&logo=uber&logoColor=white&labelColor=000000)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=000000)
+
+#### SECURITY & PROTOCOLS
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000)
+![Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000)
+![eBPF](https://img.shields.io/badge/eBPF-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000000)
+![Cryptography](https://img.shields.io/badge/Post--Quantum_Crypto-000000?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=000000)
+
+#### FULL-STACK & INFRA
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+
+---
+
+### 03 // FEATURED DEPLOYMENTS & RESEARCH
+
+| Deployment / System | Classification | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **ARKA** | Government-Grade GeoIntelligence Platform | TypeScript, Next.js, PostGIS, Deck.gl, FastAPI | [Repo](https://github.com/ayush10pradhan/arka) &bull; [Live Demo](https://arka-geoint.dev) |
+| **Terrain Intelligence Platform (TIP)** | GEOINT Workstation & Terrain Analysis | Next.js, FastAPI, PostGIS, Three.js, GDAL | [Repo](https://github.com/ayush10pradhan/terrain-intelligence-platform) &bull; [Live Demo](https://tip-geoint.dev) |
+| **Digital Traceability (DTFA)** | Privacy Engine & Footprint Analyzer | React, D3.js, Python, FastAPI, NetworkX | [Repo](https://github.com/ayush10pradhan/dtfa) &bull; [Live Demo](https://dtfa.dev) |
+| **ANBU** | Intent-Based Intrusion Detection (IDS) | Python, PyTorch, eBPF, Scapy, Golang | [Repo](https://github.com/ayush10pradhan/anbu-ids) &bull; [Live Demo]([add link]) |
+| **IRA** | Climate & Environmental Intelligence | Python, Rasterio, GeoPandas, React, Mapbox | [Repo](https://github.com/ayush10pradhan/ira-climate) &bull; [Live Demo]([add link]) |
+| **Study Hub** | EdTech Learning Portal | React, Node.js, Tailwind CSS, MongoDB | [Repo](https://github.com/ayush10pradhan/study-hub) &bull; [Live Demo](https://studyhub-app.dev) |
+
+<br/>
+
+<details>
+<summary><b>🔍 TAP FOR DEEP-DIVE PROJECT SPECIFICATIONS</b></summary>
+
+<br/>
+
+> **ARKA** `GEOINT OPERATING PLATFORM`  
+> Government-grade digital twin integrating spatial layers, IoT telemetry streams, video feeds, and spatial AI reasoning with a command-center UI.  
+> *Stack:* `TypeScript`, `Next.js`, `Deck.gl`, `PostGIS`, `FastAPI`, `WebSockets`  
+> *Links:* [Repository](https://github.com/ayush10pradhan/arka) | [Deployment](https://arka-geoint.dev)
+
+> **Terrain Intelligence Platform (TIP)** `GEOINT WORKSTATION`  
+> Full-stack GIS workstation featuring line-of-sight analysis, viewshed computing, and 3D terrain mesh rendering for analysts.  
+> *Stack:* `Next.js`, `FastAPI`, `PostGIS`, `Three.js`, `GDAL`  
+> *Links:* [Repository](https://github.com/ayush10pradhan/terrain-intelligence-platform) | [Deployment](https://tip-geoint.dev)
+
+> **Digital Traceability & Footprint Analyzer (DTFA)** `PRIVACY & OSINT ENGINE`  
+> Interactive privacy exposure scoring engine with D3 force-directed knowledge graphs visualizing metadata leakage.  
+> *Stack:* `React`, `D3.js`, `Python`, `FastAPI`, `NetworkX`  
+> *Links:* [Repository](https://github.com/ayush10pradhan/dtfa) | [Deployment](https://dtfa.dev)
+
+> **ANBU** `BEHAVIORAL IDS`  
+> Intent-based anomaly network intrusion detection system capturing host/network telemetry to flag zero-day vectors.  
+> *Stack:* `Python`, `PyTorch`, `eBPF`, `Scapy`, `Golang`  
+> *Links:* [Repository](https://github.com/ayush10pradhan/anbu-ids) | [Deployment]([add link])
+
+> **IRA** `ENVIRONMENTAL INTELLIGENCE`  
+> Geospatial climate monitoring workspace fusing multispectral satellite imagery and ground sensor clusters for predictive risk.  
+> *Stack:* `Python`, `Rasterio`, `GeoPandas`, `React`, `Mapbox GL`  
+> *Links:* [Repository](https://github.com/ayush10pradhan/ira-climate) | [Deployment]([add link])
+
+> **Study Hub** `EDTECH PLATFORM`  
+> High-performance educational portal with dark-themed course workflows, interactive assessment modules, and analytics.  
+> *Stack:* `React`, `Node.js`, `Tailwind CSS`, `MongoDB`  
+> *Links:* [Repository](https://github.com/ayush10pradhan/study-hub) | [Deployment](https://studyhub-app.dev)
+
+
+</details>
+
+---
+
+### 04 // TELEMETRY & METRICS
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ayush10pradhan&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=999999&icon_color=ffffff&border_color=333333&hide_border=false" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush10pradhan&bg_color=0d0d0d&title_color=ffffff&text_color=999999&icon_color=ffffff&border_color=333333&stroke=333333&fire=ffffff&ring=ffffff&currStreakNum=ffffff&currStreakLabel=999999" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush10pradhan&bg_color=0d0d0d&color=ffffff&line=ffffff&point=999999&area=true&area_color=222222&hide_border=false&border_color=333333" width="100%" alt="Activity Graph" />
+
+</div>
+
+---
+
+### 05 // CURRENT ACTIVE FOCUS
+
+<code>>>> R&D IN PROGRESS:</code> **A lightweight post-quantum key encapsulation mechanism (KEM) layer for high-framerate IoT telemetry streaming.**
+
+---
+
+### 06 // TRANSMISSION ENDPOINT & SOCIALS
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](https://ayushpradhan.dev)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ayush10pradhan)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/ayush-pradhan)
+[![X/Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/ayushpradhan)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:ayush10.pradhan@gmail.com)
 
 <p align="center">
-  <sub>© 2026 AYUSH RANJAN PRADHAN</sub>
+  <sub><code>SYSTEM STATUS: OPERATIONAL // ALL RIGS ONLINE // MONOCHROME CRT MODE</code></sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
